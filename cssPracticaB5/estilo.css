@@ -1,0 +1,29 @@
+li{
+    list-style:none !important;
+}
+
+a{
+  color: black !important;
+}
+
+img:hover{
+    cursor:pointer; 
+    cursor: hand;
+}
+
+.navbar{
+    background: #d10606;
+}
+
+.gris{
+    background: #e9e7e7;
+}
+
+.mc{
+    width: 55px;
+    color: #d10606;
+}
+
+.r:hover{
+    background: #77f077;
+}
