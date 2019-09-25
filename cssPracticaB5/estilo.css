@@ -6,7 +6,7 @@ a{
   color: black !important;
 }
 
-img:hover{
+img:hover, button:hover{
     cursor:pointer; 
     cursor: hand;
 }
@@ -26,4 +26,18 @@ img:hover{
 
 .r:hover{
     background: #77f077;
+}
+
+.sesion:hover, .buscar:hover{
+    background: black !important;
+    color:white !important;
+    border: black !important;
+}
+
+.sesion, .buscar{
+    color: #d10606;
+}
+
+.idioma{
+    border: #03dd03 !important;
 }
